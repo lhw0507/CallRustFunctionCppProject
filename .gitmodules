@@ -1,0 +1,7 @@
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/Tencent/rapidjson.git
+[submodule "ThorsSerializer"]
+	path = ThorsSerializer
+	url = https://github.com/Loki-Astari/ThorsSerializer.git
+	branch = header-only
